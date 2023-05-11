@@ -5,3 +5,6 @@ def upper_str(value):
 def upper_first_letter(value):
     """Делает первые буквы в слове заглавными"""
     return value.title()
+
+def text(value):
+    return value
